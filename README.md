@@ -1,4 +1,5 @@
 # Hi there, I'm Khudadad Khawari! 👋
+![Profile Banner](./images/banner.png)
 
 I am a DevOps and Backend Developer passionate about creating secure, scalable, and efficient solutions. I specialize in deployment automation, SSO integration, and backend development using modern technologies.
 
