@@ -50,7 +50,6 @@ I am a DevOps and Backend Developer passionate about creating secure, scalable, 
 - [GitHub](https://github.com/KhudadadKhawari)
 
 
-<a href="https://app.daily.dev/khudadadkhawari"><img src="https://api.daily.dev/devcards/v2/1ASHdtoDqWxERGbACjwUD.png?type=default&r=sta" width="356" alt="Khudadad Khawari's Dev Card"/></a>
 
 
 ## 📈 GitHub Stats
